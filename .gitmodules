@@ -1,0 +1,6 @@
+[submodule "SmartRestaurantApi"]
+	path = SmartRestaurantApi
+	url = https://github.com/alexgavrila/SmartRestaurantApi
+[submodule "SmartRestaurantAdmin"]
+	path = SmartRestaurantAdmin
+	url = https://github.com/alexgavrila/SmartRestaurantAdmin
